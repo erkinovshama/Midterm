@@ -1,0 +1,9 @@
+{
+  "name": "midterm",
+  "version": "0.0.0",
+  "description": "Midterm",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  }
+}
